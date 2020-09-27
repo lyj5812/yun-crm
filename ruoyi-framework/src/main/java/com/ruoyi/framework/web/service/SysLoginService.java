@@ -22,7 +22,7 @@ import com.ruoyi.framework.manager.factory.AsyncFactory;
 /**
  * 登录校验方法
  *
- * @author ruoyi
+ *
  */
 @Component
 public class SysLoginService {
